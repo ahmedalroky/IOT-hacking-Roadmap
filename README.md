@@ -18,16 +18,16 @@
 
 
 ###	Some Tools :  
-  >–	binwalk  
-  –	Firmware-mod-kit.  
-  –	Qemu  
-  –	minicom  
-  –	Openocd  
-  –	Flashrom  
-  –	tftpd server  
-  –	hexdump  
-  –	zigbee killer  
-  –	Attify OS  
+  >–	[BinWalk](https://github.com/ReFirmLabs/binwalk)  
+  –	[Firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit)  
+  –	[Qemu](https://www.qemu.org/)  
+  –	[minicom](https://linux.die.net/man/1/minicom)  
+  –	[Openocd](https://openocd.org/)  
+  –	[Flashrom](https://www.flashrom.org/Flashrom)  
+  –	[tftpd server](https://www.tftp-server.com/tftp-download.html)  
+  –	[hexdump](https://man7.org/linux/man-pages/man1/hexdump.1.html)  
+  –	[KillerBee](https://github.com/riverloopsec/killerbee)  
+  –	[Attify OS](https://github.com/adi0x90/attifyos)  
 
 ###	Hardware Tools :  
   >–	arduino  
