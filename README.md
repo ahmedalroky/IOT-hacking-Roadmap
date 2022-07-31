@@ -4,11 +4,11 @@
   >–	 electronics basics  
   –	Microcontrollers  
   –	Understanding the difference between SOC , microcontroller and microprocessor.  
-  –	the basics of linux based systems including embedded linux   
+  –	The basics of linux based systems including embedded linux   
   –	Try to designe your own hardware.  
   –	Analyze , review hardware components  and try to understand each part.  
-  –	understanding protocols : CAN , UART , SPI , I2C , JTAG , 1wire and wiegand.  
-  –	wireless technologies: wifi , bluetooth. BLE , zigbee , lorawan and IR.  
+  –	Understanding protocols : CAN , UART , SPI , I2C , JTAG , 1wire and wiegand.  
+  –	Wireless technologies: wifi , bluetooth. BLE , zigbee , lorawan and IR.  
   –	Access control : NFC , RFID and mechanical locks.  
   –	Firmware analysis and modification    
   –	ARM exploitation.  
