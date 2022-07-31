@@ -1,10 +1,10 @@
 # Hardware hacking Roadmap 
 
 ### To Study :  
-  –	study electronics basics  
-  –	knowledge about Microcontrollers  
+  >–	 electronics basics  
+  –	Microcontrollers  
   –	Understanding the difference between SOC , microcontroller and microprocessor.  
-  –	basics of linux based systems including embedded linux   
+  –	the basics of linux based systems including embedded linux   
   –	Try to designe your own hardware.  
   –	Analyze , review hardware components  and try to understand each part.  
   –	understanding protocols : CAN , UART , SPI , I2C , JTAG , 1wire and wiegand.  
@@ -18,7 +18,7 @@
 
 
 ###	Some Tools :  
-  –	binwalk  
+  >–	binwalk  
   –	Firmware-mod-kit.  
   –	Qemu  
   –	minicom  
@@ -30,7 +30,7 @@
   –	Attify OS  
 
 ###	Hardware Tools :  
-  –	arduino  
+  >–	arduino  
   –	Stm32 board  
   –	Raspberry pi  
   –	buspirate  
@@ -47,8 +47,8 @@
   –	logic analyzer  
 
 ###	Resources :  
-  –	Book : Simply arduino  
-  –	Book : Simple raspberry pi  
+  >–	Book : Simply arduino  'arabic'  [Link](http://simplyarduino.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D8%B1%D8%AF%D9%88%D9%8A%D9%86%D9%88-%D8%A8%D8%A8%D8%B3%D8%A7%D8%B7%D8%A9/).  
+  –	Book : Simple raspberry pi [Link](http://simplyarduino.com/%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%83%d8%aa%d8%a8-%d8%aa%d8%b9%d9%84%d9%85-%d8%a8%d8%a8%d8%b3%d8%a7%d8%b7%d8%a9/)  
   –	Website : owasp IOT top10  
   –	Book : Practical iot hacking  
   –	Youtube : security society  
