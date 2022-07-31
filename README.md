@@ -30,10 +30,10 @@
   –	[Attify OS](https://github.com/adi0x90/attifyos)  
 
 ###	Hardware Tools :  
-  >–	arduino  
+  >–	Arduino  
   –	Stm32 board  
   –	Raspberry pi  
-  –	buspirate  
+  –	Buspirate  
   –	Usb ttl  
   –	Screw drivers  
   –	Jumping wires  
@@ -44,7 +44,7 @@
   –	Proxmark3  
   –	Esp8266.  
   –	Esp32  
-  –	logic analyzer  
+  –	Logic analyzer  
 
 ###	Resources :  
   >– 🔗 owasp IOT top10 [Link](https://owasp.org/www-project-internet-of-things/)  
@@ -64,4 +64,6 @@
   –	Repo : the hacker hardware toolkit [Github](https://github.com/yadox666/The-Hackers-Hardware-Toolkit)  
   
   
-Keep up to date  
+### Contact me :  
+[Linkedin](https://eg.linkedin.com/in/ahmedalroky)  
+Email : ahmedalroky@gmail.com  
