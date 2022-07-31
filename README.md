@@ -49,6 +49,7 @@
 ###	Resources :  
   >– 🔗 owasp IOT top10 [Link](https://owasp.org/www-project-internet-of-things/)  
   – 🔗 Attify [Link](https://www.attify.com/)  
+  – 🔗 CWE Most Important Hardware Weaknesses [Link](https://cwe.mitre.org/scoring/lists/2021_CWE_MIHW.html).  
   – 🔗 Blackhat hardware training roadmap [Blackhat](https://securinghardware.com/articles/BlackHat-Hardware-Training-Roadmap/)  
   –	📹 Security society "Arabic" [Youtube](https://www.youtube.com/channel/UC05zDAuBayVZqhQi4jyz1pQ?app=desktop)  
   –	📹 Liveoverflow [Youtube](https://www.youtube.com/c/LiveOverflow)  
