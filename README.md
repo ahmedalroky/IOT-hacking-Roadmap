@@ -47,18 +47,21 @@
   –	logic analyzer  
 
 ###	Resources :  
-  >–	Book : Simply arduino  'arabic'  [Link](http://simplyarduino.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D8%B1%D8%AF%D9%88%D9%8A%D9%86%D9%88-%D8%A8%D8%A8%D8%B3%D8%A7%D8%B7%D8%A9/).  
-  –	Book : Simple raspberry pi [Link](http://simplyarduino.com/%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%83%d8%aa%d8%a8-%d8%aa%d8%b9%d9%84%d9%85-%d8%a8%d8%a8%d8%b3%d8%a7%d8%b7%d8%a9/)  
-  –	Website : owasp IOT top10  
-  –	Book : Practical iot hacking  
-  –	Youtube : security society  
-  –	Youtube : liveoverflow  
-  –	Youtube : lockpickinglawyer  
-  –	Youtube : joe grand  
-  –	Pdf : the hacker hardware toolkit  
-  –	Book : practical hardware pentesting  
-  –	Book : the hardware hacking handbook  
-  –	Book : the car hackers handbook  
+  >– Website : owasp IOT top10 [Link](https://owasp.org/www-project-internet-of-things/)  
+  – Website : Attify [Link](https://www.attify.com/)  
+  – Website : blackhat hardware training roadmap [Blackhat](https://securinghardware.com/articles/BlackHat-Hardware-Training-Roadmap/)  
+  –	📹 Channel : security society "Arabic" [Youtube](https://www.youtube.com/channel/UC05zDAuBayVZqhQi4jyz1pQ?app=desktop)  
+  –	📹 Channel : liveoverflow [Youtube](https://www.youtube.com/c/LiveOverflow)  
+  –	📹 Channel : lockpickinglawyer [Youtube](https://www.youtube.com/c/lockpickinglawyer)  
+  –	📹 Channel : joe grand [Youtube](https://www.youtube.com/c/JoeGrand)  
+  – 📹 Channel : Ahmed Alroky "Arabic" [Youtube](https://www.youtube.com/c/ahmedalroky)  
+  –	📙 Book : practical hardware pentesting [Amazon](https://www.amazon.com/Practical-Hardware-Pentesting-attacking-protecting/dp/1789619130)  
+  –	📙 Book : the hardware hacking handbook [Amazon](https://www.amazon.com/Hardware-Hacking-Handbook-Breaking-Embedded-ebook/dp/B077WZBFYL)  
+  –	📙 Book : the car hackers handbook [Amazon](https://www.amazon.com/Car-Hackers-Handbook-Penetration-Tester/dp/1593277032)  
+  –	📙 Book : Practical iot hacking [Amazon](https://www.amazon.com/Practical-IoT-Hacking-Fotios-Chantzis-ebook/dp/B085BVVSN6)  
+  –	📙 Book : Simply arduino  'Arabic'  [Link](http://simplyarduino.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D8%B1%D8%AF%D9%88%D9%8A%D9%86%D9%88-%D8%A8%D8%A8%D8%B3%D8%A7%D8%B7%D8%A9/).  
+  –	📙 Book : Simple raspberry pi [Link](http://simplyarduino.com/%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%83%d8%aa%d8%a8-%d8%aa%d8%b9%d9%84%d9%85-%d8%a8%d8%a8%d8%b3%d8%a7%d8%b7%d8%a9/).  
+  –	Repo : the hacker hardware toolkit [Github](https://github.com/yadox666/The-Hackers-Hardware-Toolkit)  
   
   
 Keep up to date  
