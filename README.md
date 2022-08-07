@@ -1,5 +1,6 @@
 # Hardware hacking Roadmap 
 
+  <meta property="og:image" content="https://github.com/ahmedalroky/Hardware-hacking-Roadmap/blob/main/tools.jpeg?raw=true" />
 
 ![Tools](https://github.com/ahmedalroky/Hardware-hacking-Roadmap/blob/main/tools.jpeg?raw=true "Tools")  
 
