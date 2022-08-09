@@ -4,12 +4,12 @@
 
 ![Tools](https://github.com/ahmedalroky/Hardware-hacking-Roadmap/blob/main/tools.jpeg?raw=true "Tools")  
 ### Table Of Content :
-  - [To study](https://github.com/ahmedalroky/Hardware-hacking-Roadmap#to-study-)
-  - [Software Tools](https://github.com/ahmedalroky/Hardware-hacking-Roadmap#some-tools-) 
-  - [Hardware Tools](https://github.com/ahmedalroky/Hardware-hacking-Roadmap#hardware-tools-) 
-  - [Resources](https://github.com/ahmedalroky/Hardware-hacking-Roadmap#resources-)
-  - [Tutorials](https://github.com/ahmedalroky/Hardware-hacking-Roadmap#tutorials-) 
-  - [Contact me](https://github.com/ahmedalroky/Hardware-hacking-Roadmap#contact-me-) 
+  - [To study](#to-study-)
+  - [Software Tools](#some-tools-) 
+  - [Hardware Tools](#hardware-tools-) 
+  - [Resources](#resources-)
+  - [Tutorials](#tutorials-) 
+  - [Contact me](#contact-me-) 
 
 ### To Study :  
   >–	 electronics basics  
