@@ -5,7 +5,7 @@
 ![Tools](https://github.com/ahmedalroky/Hardware-hacking-Roadmap/blob/main/tools.jpeg?raw=true "Tools")  
 ### Table Of Content :
   - [To study](#to-study-)
-  - [Software Tools](#some-tools-) 
+  - [Software Tools](#software-tools-) 
   - [Hardware Tools](#hardware-tools-) 
   - [Resources](#resources-)
   - [Tutorials](#tutorials-) 
