@@ -3,7 +3,13 @@
   <meta property="og:image" content="https://github.com/ahmedalroky/Hardware-hacking-Roadmap/blob/main/tools.jpeg?raw=true" />
 
 ![Tools](https://github.com/ahmedalroky/Hardware-hacking-Roadmap/blob/main/tools.jpeg?raw=true "Tools")  
-
+### Table Of Content :
+  - [To study](https://github.com/ahmedalroky/Hardware-hacking-Roadmap#to-study-)
+  - [Software Tools](https://github.com/ahmedalroky/Hardware-hacking-Roadmap#some-tools-) 
+  - [Hardware Tools](https://github.com/ahmedalroky/Hardware-hacking-Roadmap#hardware-tools-) 
+  - [Resources](https://github.com/ahmedalroky/Hardware-hacking-Roadmap#resources-)
+  - [Tutorials](https://github.com/ahmedalroky/Hardware-hacking-Roadmap#tutorials-) 
+  - [Contact me](https://github.com/ahmedalroky/Hardware-hacking-Roadmap#contact-me-) 
 
 ### To Study :  
   >–	 electronics basics  
@@ -23,7 +29,7 @@
 
 
 
-###	Some Tools :  
+###	Software Tools :  
   >–	[BinWalk](https://github.com/ReFirmLabs/binwalk)  
   –	[Firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit)  
   –	[Qemu](https://www.qemu.org/)  
@@ -52,7 +58,7 @@
   –	Esp32  
   –	Logic analyzer  
   – MR3020 Router  
-  – supported USB WIFI Adapter (Injection  , Master mode , Monitor mode)  
+  – supported USB WIFI Adapter - [List of some supported models](https://github.com/ahmedalroky/Hardware-hacking-Roadmap/edit/main/README.md#tested-supported-wifi-adapters-) 
   – WIFI Deauther  
   – AVR Programmer  
   – EEPROM Programmer  
@@ -60,6 +66,16 @@
   – Nethunter support android phone  
   – Lily go bad USB [Payloads](https://github.com/ahmedalroky/lily-go-payloads)  
   – Digispark [Payloads](https://github.com/ahmedalroky/DigiSpark-Scripts)  
+  
+###	Tested supported WIFI adapters :
+  |Manufacturer | Model | chipset Manufacturer| Supports Monitor mode | Supports Injection | Supports Master mode |
+  |---|---|--- |---|---|---|
+  |Belkin|f5d7050|qualcomm |True|True|True|
+  |Netis|WF2503|Realtek|True|True|True|
+  |Netis|WF2120|Realtek|True|True|True|
+  |alfa wireless|AWUS036H|Realtek|True|True|False|
+  
+
 ###	Resources :  
   >– 🔗 owasp IOT top10 [Link](https://owasp.org/www-project-internet-of-things/)  
   – 🔗 Attify [Link](https://www.attify.com/)  
