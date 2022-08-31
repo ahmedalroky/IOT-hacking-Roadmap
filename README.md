@@ -91,6 +91,7 @@
   – 📹 Ahmed Alroky "Arabic" [Youtube](https://www.youtube.com/c/ahmedalroky)  
   –	📙 Practical hardware pentesting [Amazon](https://www.amazon.com/Practical-Hardware-Pentesting-attacking-protecting/dp/1789619130)  
   –	📙 The hardware hacking handbook [Amazon](https://www.amazon.com/Hardware-Hacking-Handbook-Breaking-Embedded-ebook/dp/B077WZBFYL)  
+  –	📙 Proxmark3 handbook [Github](https://github.com/ahmedalroky/Hardware-hacking-Roadmap/blob/main/Proxmark3%20Handbook.pdf)  
   –	📙 The car hackers handbook [Amazon](https://www.amazon.com/Car-Hackers-Handbook-Penetration-Tester/dp/1593277032)  
   –	📙 Practical iot hacking [Amazon](https://www.amazon.com/Practical-IoT-Hacking-Fotios-Chantzis-ebook/dp/B085BVVSN6)  
   –	📙 Simply arduino  'Arabic'  [Link](http://simplyarduino.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D8%B1%D8%AF%D9%88%D9%8A%D9%86%D9%88-%D8%A8%D8%A8%D8%B3%D8%A7%D8%B7%D8%A9/).  
