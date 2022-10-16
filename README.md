@@ -89,6 +89,7 @@
   –	📹 Lockpickinglawyer [Youtube](https://www.youtube.com/c/lockpickinglawyer)  
   –	📹 Joe grand [Youtube](https://www.youtube.com/c/JoeGrand)  
   – 📹 Ahmed Alroky "Arabic" [Youtube](https://www.youtube.com/c/ahmedalroky)  
+  – 📹 hardwear.io [hardwear.io](https://media.hardwear.io/)  
   –	📙 Practical hardware pentesting [Amazon](https://www.amazon.com/Practical-Hardware-Pentesting-attacking-protecting/dp/1789619130)  
   –	📙 The hardware hacking handbook [Amazon](https://www.amazon.com/Hardware-Hacking-Handbook-Breaking-Embedded-ebook/dp/B077WZBFYL)  
   –	📙 Proxmark3 handbook [Github](https://github.com/ahmedalroky/Hardware-hacking-Roadmap/blob/main/Proxmark3%20Handbook.pdf)  
