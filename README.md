@@ -74,6 +74,8 @@
   – RSP1 SdR  
   – Universal RF remote  
   – Ubertooth one  
+  – DSlogic logic analyzer  
+  – Chameleon mini  
   
 
 ###	Tested supported WIFI adapters :
