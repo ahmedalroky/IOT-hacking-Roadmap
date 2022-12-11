@@ -66,7 +66,16 @@
   – Nethunter support android phone  
   – Lily go bad USB [Payloads](https://github.com/ahmedalroky/lily-go-payloads)  
   – Digispark [Payloads](https://github.com/ahmedalroky/DigiSpark-Scripts)  
+  – wifi pineapple  
+  – USB killer  
+  – EMP generator  
+  – Evil crow RF  
+  – WHID injector USB  
+  – RSP1 SdR  
+  – Universal RF remote  
+  – Ubertooth one  
   
+
 ###	Tested supported WIFI adapters :
   |Manufacturer | Model | chipset Manufacturer| Supports Monitor mode | Supports Injection | Supports Master mode |
   |---|---|--- |---|---|---|
