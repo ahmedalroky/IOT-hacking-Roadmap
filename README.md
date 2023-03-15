@@ -2,7 +2,7 @@
 
   <meta property="og:image" content="https://github.com/ahmedalroky/Hardware-hacking-Roadmap/blob/main/tools.jpeg?raw=true" />
 
-![Tools](https://github.com/ahmedalroky/Hardware-hacking-Roadmap/blob/main/tools.jpeg?raw=true "Tools")  
+![Tools](https://media.licdn.com/dms/image/C4D22AQHO6cNab0qRjw/feedshare-shrink_800/0/1678605900022?e=1681948800&v=beta&t=JH93UCkQ0fRwO2ccOrRhIvZWPlWI08CUfJJ9mo_4ASA "Tools")  
 ### Table Of Content :
   - [To study](#to-study-)
   - [Software Tools](#software-tools-) 
